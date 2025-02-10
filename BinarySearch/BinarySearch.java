@@ -1,0 +1,5 @@
+class BinarySearch{
+    void binarysearch(){
+
+    }
+}
